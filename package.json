@@ -1,6 +1,6 @@
 {
   "name": "@conglicorp/schema-checker",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A helper to easier checking schema of a payload object.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
